@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate with full stack developer
 - 📫 How to reach me: carewmilfredb@gmail.com
-- 😄 Pronouns: you can call me an of the above name
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love football, I love cooking and innovation
 
 <!---
